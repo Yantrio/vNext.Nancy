@@ -1,4 +1,4 @@
 vNext.Nancy
 ===========
 
-A sample Nancy project ready to run in [vNext](www.github.com/aspnet/Home)
+A sample Nancy project ready to run in [vNext](http://www.github.com/aspnet/Home)
