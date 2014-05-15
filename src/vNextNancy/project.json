@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "Nancy": "0.21.1",
+     "Nancy.Hosting.Self": "0.21.1",
+  },
+  "configurations": {
+    "net45": {},
+    "k10": {}
+  }
+}
